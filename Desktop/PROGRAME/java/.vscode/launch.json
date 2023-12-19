@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AVLTree",
+            "request": "launch",
+            "mainClass": "AVLTree",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "MergSort",
+            "request": "launch",
+            "mainClass": "MergSort",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "PostPreInOrderInOneFlowRecursive",
+            "request": "launch",
+            "mainClass": "PostPreInOrderInOneFlowRecursive",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSortStudents",
+            "request": "launch",
+            "mainClass": "SelectionSortStudents",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "lab",
+            "request": "launch",
+            "mainClass": "lab",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "lab1",
+            "request": "launch",
+            "mainClass": "lab1",
+            "projectName": "java_6abfa233"
+        },
+        {
+            "type": "java",
+            "name": "lab2",
+            "request": "launch",
+            "mainClass": "lab2",
+            "projectName": "java_6abfa233"
+        }
+    ]
+}
